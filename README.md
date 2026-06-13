@@ -20,4 +20,4 @@ Este projeto foi desenvolvido apenas para fins educacionais e de teste. O uso de
 Copie o código abaixo e execute no seu executor de preferência:
 
 ```lua
-loadstring(game:HttpGet("[https://raw.githubusercontent.com/aguiarjj169-spec/Archive-Hub/refs/heads/main/ArchiveHub.lua](https://raw.githubusercontent.com/aguiarjj169-spec/Archive-Hub/refs/heads/main/ArchiveHub.lua)"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aguiarjj169-spec/Archive-Hub/refs/heads/main/ArchiveHub.lua"))()
